@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "axios-mock-adapter": "^1.18.1",
-    "elliptic": "6.5.3",
+    "elliptic": "6.5.4",
     "lodash": "4.17.19",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
