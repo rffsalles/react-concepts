@@ -6,7 +6,7 @@
     "axios": "^0.19.2",
     "axios-mock-adapter": "^1.18.1",
     "elliptic": "6.5.3",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
